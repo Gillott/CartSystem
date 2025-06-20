@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: client.MainPage
+Class-Path: ./lib/mysql-connector-j-8.0.33
+
